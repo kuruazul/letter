@@ -11,8 +11,8 @@ export default function Home() {
   const message = `Qué tal, espero que te haya gustado el detalle. Me parece que no es justo lo que querías, pero por lo menos es algo. Lamentablemente no pude entregartelo personalmente, pero me conformo con por lo menos verte y saludarte 😆.
   \nMis mejores deseos para ti y tu familia: que este nuevo año esté lleno de alegría, triunfos, superación, éxitos, wins y, por qué no, de chamba también, para que no falten los COD Points.
   \nLo siguiente no se como expressarlo sin sonar muy cliché o cursi 😅, pero quisiera decirte que la paso bien chévere contigo cuando jugamos. Tienes buena vibra, o al menos eso es lo que percibo. Si estás libre y no te incomoda, quisiera acercarme un poco más a ti. Aunque soy penoso, no muy bueno en COD, pero por lo menos me defiendo, jeje..
-  \nSin mas me despido, que disfrutes tu regalo y espero tu respuesta de que te pareció.
-  \nUn abrazo enorme.
+  \nSin mas me despido, que disfrutes tu regalo y espero tu respuesta de que te pareció ☺️. 
+  \nUn abrazo enorme 🤗.
   `;
 
   useEffect(() => {
