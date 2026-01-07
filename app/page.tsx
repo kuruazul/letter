@@ -13,12 +13,13 @@ export default function Home() {
   \nLo siguiente no se como expressarlo sin sonar muy cliché o cursi 😅, pero quisiera decirte que la paso bien chévere contigo cuando jugamos. Tienes buena vibra, o al menos eso es lo que percibo. Si estás libre y no te incomoda, quisiera acercarme un poco más a ti. Aunque soy penoso, no muy bueno en COD, pero por lo menos me defiendo, jeje..
   \nSin mas me despido, que disfrutes tu regalo y espero tu respuesta de que te pareció ☺️. 
   \nUn abrazo enorme 🤗.
+  \nPd: Recuerda es Calzada no Cansado 😆
   `;
 
   useEffect(() => {
     const timer = setTimeout(() => {
       setIsLoading(false);
-    }, 3500); // 2.5 seconds loading
+    }, 3500); // 3.5 seconds loading
 
     return () => clearTimeout(timer);
   }, []);
